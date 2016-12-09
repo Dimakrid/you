@@ -1,0 +1,12 @@
+﻿.form-control
+{
+	height: 46px;
+}
+.accordeon dd
+{
+ display: none;
+}
+.accordeon dd:hover
+{
+ display: table !important;
+}
